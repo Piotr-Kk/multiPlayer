@@ -1,4 +1,3 @@
-
 interface IntrVideoSource {
   source: string,
   mediaType: string,
